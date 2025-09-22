@@ -51,7 +51,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-*Your Name*  
+*Aayushman Tiwari*  
 Udacity x AWS Learner
 
 ---
